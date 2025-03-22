@@ -1,5 +1,7 @@
 # Asynchronous_FIFO
 Repo for Asynchronous FIFO design and verification with UVM based testbench
+![image](https://github.com/user-attachments/assets/0d7d11f9-8811-41b6-a0c8-6ef13e4794a0)
+
 
 # Contributing to the project
 ## Basic Workflow
