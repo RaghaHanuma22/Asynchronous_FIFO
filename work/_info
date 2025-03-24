@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_1 2021.08, Aug 15 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/u/maithven/FIFO Proj/Asynchronous_FIFO/Code
+vrptr_handler
+Z1 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z2 !s110 1742856501
+!i10b 1
+!s100 UWNkFZBiVl?1P=Z4SU6Ab0
+I0[Dc=oAZzd`2Q2[i17cNm1
+S1
+R0
+w1742856496
+8/u/maithven/FIFO Proj/Asynchronous_FIFO/Code/read.sv
+F/u/maithven/FIFO Proj/Asynchronous_FIFO/Code/read.sv
+!i122 1
+L0 2 36
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OL;L;2021.3_1;73
+r1
+!s85 0
+31
+Z5 !s108 1742856501.000000
+!s107 /u/maithven/FIFO Proj/Asynchronous_FIFO/Code/read.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/u/maithven/FIFO Proj/Asynchronous_FIFO/Code/read.sv|
+!i113 0
+Z6 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 tCvgOpt 0
+vsynchronizer
+R1
+R2
+!i10b 1
+!s100 zhBlb6jYTen;VSZ7O_]b]1
+I7=chm@0TR;MYW4GBH]HH@3
+S1
+R0
+w1742856497
+8/u/maithven/FIFO Proj/Asynchronous_FIFO/Code/sync.sv
+F/u/maithven/FIFO Proj/Asynchronous_FIFO/Code/sync.sv
+!i122 0
+L0 1 18
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 /u/maithven/FIFO Proj/Asynchronous_FIFO/Code/sync.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/u/maithven/FIFO Proj/Asynchronous_FIFO/Code/sync.sv|
+!i113 0
+R6
+R7
